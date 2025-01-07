@@ -1,3 +1,3 @@
 ## Joseph Liang
 
-# Work in Progress...
+### Work in Progress... Check back soon
