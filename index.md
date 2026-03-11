@@ -247,10 +247,10 @@ title: Joseph Liang
       <div class="about-callout">
         <h3>Technical toolkit</h3>
         <ul class="about-list">
-          <li>Python, R, SQL</li>
-          <li>PostgreSQL, Streamlit, Docker, AWS</li>
+          <li>Project Management Tools & Methodologies: Jira, Trello, ClickUp, Agile, Kanban</li>
+          <li>Programming & data: Python, R, SQL, Docker, Git, VS Code, Jupyter</li>
+          <li>Databases & Dashboards: AWS (RDS,EC2), PostgreSQL, Streamlit</li>
           <li>Statistical modelling, machine learning, time-series analysis, computer vision</li>
-          <li>JIRA, Git, VS Code, Trello, ClickUp</li>
         </ul>
       </div>
       <div class="about-callout">
