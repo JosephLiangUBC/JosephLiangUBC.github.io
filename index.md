@@ -84,8 +84,8 @@ title: Joseph Liang
   </section>
 
   <section class="section">
-    <span class="section-label">Selected Achievements</span>
-    <h2>Highlighted Experiences and Expertise</h2>
+    <span class="section-label">Impact-Driven Achievements</span>
+    <h2>Selected Experience</h2>
     <div class="project-grid">
       <article class="project-card">
         <div class="project-top">
