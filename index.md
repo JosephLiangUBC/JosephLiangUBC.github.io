@@ -50,7 +50,7 @@ title: Joseph Liang
         </div>
         <div class="metric">
           <strong>10+</strong>
-          <span>Data-based projects</span>
+          <span>Data analysis and visualization projects</span>
         </div>
       </div>
     </aside>
@@ -105,7 +105,7 @@ title: Joseph Liang
       <article class="project-card">
         <div class="project-top">
           <div>
-            <h3>Data Science and Scientific Research</h3>
+            <h3>Scientific Research and Data Science</h3>
             <div class="meta">Doctoral Researcher • 2020 to 2025</div>
           </div>
         </div>
