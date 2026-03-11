@@ -6,58 +6,158 @@ title: Joseph Liang
 <div class="portfolio">
   <section class="hero">
     <div>
-      <span class="eyebrow">Research Software Portfolio</span>
+      <span class="eyebrow">Project Leadership • Data Science • Research Software</span>
       <h1>Joseph Liang</h1>
       <p class="lead">
-        Neuroscience PhD at UBC building practical tools for behavioral data, phenotype analysis, and reproducible research. My strongest GitHub work sits at the intersection of scientific rigor, data storytelling, and usable software.
+        Impact-driven project leader and data scientist with 7+ years of experience delivering complex, cross-functional initiatives from start to finish and using data to inform every step.
+      </p>
+      <p>
+        With a PhD in Neuroscience and hands-on experience leading multidisciplinary teams, I work at the intersection of rigorous analysis and practical execution across tech, biotech, healthcare, and research-driven environments.
       </p>
       <div class="button-row">
-        <a class="button primary" href="https://github.com/JosephLiangUBC">View GitHub</a>
+        <a class="button primary" href="mailto:joseph90003@gmail.com">Contact Me</a>
+        <a class="button secondary" href="https://github.com/JosephLiangUBC">GitHub</a>
         <a class="button secondary" href="https://www.linkedin.com/in/joseph-liang-ubc/">LinkedIn</a>
-        <a class="button secondary" href="mailto:joseph90003@gmail.com">Email</a>
       </div>
       <div class="tag-row">
+        <span class="tag">Project Delivery</span>
+        <span class="tag">Data Science</span>
         <span class="tag">Python</span>
-        <span class="tag">Jupyter</span>
-        <span class="tag">Streamlit</span>
-        <span class="tag">Data Visualization</span>
-        <span class="tag">Research Analytics</span>
-        <span class="tag">Reproducible Science</span>
+        <span class="tag">SQL</span>
+        <span class="tag">Machine Learning</span>
+        <span class="tag">Dashboards</span>
       </div>
     </div>
     <aside class="hero-card">
       <div class="profile-head">
         <img src="https://avatars.githubusercontent.com/u/41761806?v=4" alt="Joseph Liang GitHub profile photo">
         <div>
-          <strong>Rankin Lab @ UBC</strong><br>
-          <span>PhD Neuroscience Candidate</span>
+          <strong>UBC Neuroscience PhD</strong><br>
+          <span>Project leader, data scientist, researcher</span>
         </div>
       </div>
       <p>
-        The strongest signal in this profile is not just analysis. It is the ability to turn messy research workflows into dashboards, notebooks, and documented pipelines that other people can actually use.
+        I bring scientific rigor to project management and a delivery mindset to data science. My work spans project leadership, machine learning, dashboard development, database design, and technical communication for both specialist and non-specialist audiences.
       </p>
       <div class="metrics">
         <div class="metric">
-          <strong>12</strong>
-          <span>Public repositories</span>
+          <strong>7+</strong>
+          <span>Years leading complex initiatives</span>
         </div>
         <div class="metric">
-          <strong>4</strong>
-          <span>Projects worth featuring</span>
+          <strong>$1.2M</strong>
+          <span>CIHR project grant supported</span>
         </div>
         <div class="metric">
-          <strong>UBC</strong>
-          <span>Research environment</span>
+          <strong>50k+</strong>
+          <span>Animals phenotyped and analyzed</span>
         </div>
       </div>
     </aside>
   </section>
 
   <section class="section">
-    <span class="section-label">Featured Work</span>
-    <h2>Projects that best represent my value</h2>
+    <span class="section-label">What I Do</span>
+    <h2>How I create value</h2>
+    <div class="signal-grid">
+      <article class="signal-card">
+        <h3>Lead end-to-end delivery</h3>
+        <p>
+          I manage scope, timelines, and cross-functional execution across multi-month and multi-year initiatives, from early problem definition through final delivery.
+        </p>
+      </article>
+      <article class="signal-card">
+        <h3>Translate data into decisions</h3>
+        <p>
+          I build machine learning models, design data infrastructure, and develop dashboards that make large datasets accessible and useful to stakeholders.
+        </p>
+      </article>
+      <article class="signal-card">
+        <h3>Bridge technical and non-technical teams</h3>
+        <p>
+          I communicate analytical trade-offs, project risks, and findings clearly across researchers, executives, collaborators, and non-specialist audiences.
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <span class="section-label">Selected Achievements</span>
+    <h2>Highlights</h2>
+    <div class="project-grid">
+      <article class="project-card">
+        <div class="project-top">
+          <div>
+            <h3>Research Delivery</h3>
+            <div class="meta">UBC • Postdoctoral Researcher • 2026 to present</div>
+          </div>
+        </div>
+        <div class="project-copy">
+          <ul>
+            <li>Led end-to-end analytical execution across 5 to 7 active projects simultaneously, replacing ad hoc work with milestone-driven delivery and stakeholder-facing outputs.</li>
+            <li>Mentored a cross-functional team spanning data science, biology, and research while setting analytical standards across disciplines.</li>
+            <li>Established shared templates and SOPs across projects to improve reproducibility, interpretability, and reviewability.</li>
+            <li>Led migration of a PostgreSQL database and Streamlit dashboard from AWS RDS to private infrastructure to reduce data privacy risk.</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-top">
+          <div>
+            <h3>Data Science in Research</h3>
+            <div class="meta">Doctoral Researcher • 2020 to 2025</div>
+          </div>
+        </div>
+        <div class="project-copy">
+          <ul>
+            <li>Built and evaluated multi-class ML models including Random Forest, SVM, and Logistic Regression across 28 features to classify disease-linked gene candidates.</li>
+            <li>Led delivery of a PostgreSQL data infrastructure project and self-serve Streamlit dashboard that consolidated 15 years of institutional data.</li>
+            <li>Collected and analyzed phenotype data from roughly 50,000 animals to generate functional annotation for understudied genes.</li>
+            <li>Authored a successful CIHR Project Grant proposal that contributed to securing $1.2M in federal funding.</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-top">
+          <div>
+            <h3>Scientific Consulting</h3>
+            <div class="meta">Derm-Biome Pharmaceuticals • 2020 to 2022</div>
+          </div>
+        </div>
+        <div class="project-copy">
+          <ul>
+            <li>Led a focused drug-screening and hypothesis-testing initiative that contributed directly to $500K in pre-seed funding.</li>
+            <li>Coordinated a small research team and delivered decision-ready evidence on timeline for executive stakeholders.</li>
+            <li>Translated experimental results into clear strategic narratives for CEO, CSO, and investor audiences.</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-top">
+          <div>
+            <h3>Communication at Scale</h3>
+            <div class="meta">Teaching, podcasting, and science communication</div>
+          </div>
+        </div>
+        <div class="project-copy">
+          <ul>
+            <li>Designed and delivered curriculum to 2,000+ students over 7 years with a 4.7 out of 5 teaching rating.</li>
+            <li>Built and managed a research-focused podcast with 46,196 all-time downloads and 12,449 unique listeners.</li>
+            <li>Presented findings at 10+ local and international conferences and regularly translated technical material for non-specialist audiences.</li>
+          </ul>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <span class="section-label">GitHub Portfolio</span>
+    <h2>Projects I would share with employers</h2>
     <p>
-      I would highlight the repositories below to employers because they show a consistent pattern: translating domain knowledge into useful analysis tools, not just one-off scripts.
+      My GitHub is strongest where software delivery and analytical depth meet. These repositories provide concrete examples of the workflows, tools, and delivery style described above.
     </p>
 
     <div class="project-grid">
@@ -65,15 +165,15 @@ title: Joseph Liang
         <div class="project-top">
           <div>
             <h3>MWT_Dashboard</h3>
-            <div class="meta">Python • Streamlit • Updated March 10, 2026</div>
+            <div class="meta">Python • Streamlit • PostgreSQL-ready workflow</div>
           </div>
           <a class="repo-link" href="https://github.com/JosephLiangUBC/MWT_Dashboard">Open Repo</a>
         </div>
         <div class="project-copy">
           <ul>
-            <li>A full data dashboard for Multi-Worm Tracker outputs, which is exactly the kind of project employers can map to internal analytics tooling.</li>
-            <li>Shows software packaging discipline through environment setup, dependency management, and a clear local run path.</li>
-            <li>Best current proof that I can build a usable interface on top of research data, not only analyze it in notebooks.</li>
+            <li>Interactive dashboard for Multi-Worm Tracker data that makes complex behavioral outputs easier to inspect and interpret.</li>
+            <li>Best example of my ability to build stakeholder-facing software on top of real research data.</li>
+            <li>Relevant to analytics, internal tooling, scientific software, and product-minded data roles.</li>
           </ul>
         </div>
       </article>
@@ -82,15 +182,15 @@ title: Joseph Liang
         <div class="project-top">
           <div>
             <h3>unc-43_brief_investigation</h3>
-            <div class="meta">Jupyter Notebook • Python 3.11 scientific stack</div>
+            <div class="meta">Reproducible analysis • Jupyter • Scientific Python</div>
           </div>
           <a class="repo-link" href="https://github.com/JosephLiangUBC/unc-43_brief_investigation">Open Repo</a>
         </div>
         <div class="project-copy">
           <ul>
-            <li>Strongest evidence of reproducible scientific analysis tied to a real research question and a publication-quality workflow.</li>
-            <li>The README documents prerequisites, installation, data source links, and project context clearly, which signals professionalism and scientific transparency.</li>
-            <li>Worth highlighting to show I can structure research code so another analyst or collaborator can audit and reuse it.</li>
+            <li>Reproducible analysis repository for a genotype-to-phenotype investigation in <em>C. elegans</em>.</li>
+            <li>Shows how I structure analysis for transparency, reuse, and publication-aligned collaboration.</li>
+            <li>Includes clear environment details, prerequisites, and linked data sources.</li>
           </ul>
         </div>
       </article>
@@ -99,15 +199,15 @@ title: Joseph Liang
         <div class="project-top">
           <div>
             <h3>NRSC510B</h3>
-            <div class="meta">Jupyter Notebook • Dashboard architecture • Research dataset design</div>
+            <div class="meta">Dataset design • Statistics • Dashboard planning</div>
           </div>
           <a class="repo-link" href="https://github.com/JosephLiangUBC/NRSC510B">Open Repo</a>
         </div>
         <div class="project-copy">
           <ul>
-            <li>This repo does a good job connecting biological context, dataset design, statistical tooling, and a dashboard delivery plan in one place.</li>
-            <li>It shows end-to-end thinking: raw data constraints, database storage, visualization choices, and usability for downstream researchers.</li>
-            <li>Useful for employers who want evidence of analytical depth plus product sense.</li>
+            <li>End-to-end project combining biological context, dataset design, statistical tooling, and dashboard-oriented thinking.</li>
+            <li>Useful illustration of how I connect research questions, data structure, and user-facing outputs.</li>
+            <li>Good fit for employers looking for structured thinking across both analysis and delivery.</li>
           </ul>
         </div>
       </article>
@@ -116,15 +216,15 @@ title: Joseph Liang
         <div class="project-top">
           <div>
             <h3>Joseph-Jupyter-Notebooks</h3>
-            <div class="meta">Jupyter Notebook • Long-running analysis work</div>
+            <div class="meta">Exploratory analysis • Supporting portfolio material</div>
           </div>
           <a class="repo-link" href="https://github.com/JosephLiangUBC/Joseph-Jupyter-Notebooks">Open Repo</a>
         </div>
         <div class="project-copy">
           <ul>
-            <li>Less polished as a portfolio centerpiece, but still useful as supporting evidence of hands-on analysis volume and continuity.</li>
-            <li>Shows that the dashboard work is not isolated. It sits on top of an existing habit of working directly with research data in notebooks.</li>
-            <li>I would keep this featured lower on the page rather than lead with it.</li>
+            <li>Collection of notebooks supporting phenotype-focused analysis and workflow development.</li>
+            <li>Shows the underlying exploratory work behind the more polished dashboard and research repositories.</li>
+            <li>Useful as supporting evidence of sustained hands-on analytical practice.</li>
           </ul>
         </div>
       </article>
@@ -132,63 +232,49 @@ title: Joseph Liang
   </section>
 
   <section class="section">
-    <span class="section-label">Why These Repos Matter</span>
-    <h2>What employers should notice</h2>
-    <div class="signal-grid">
-      <article class="signal-card">
-        <h3>Research translated into software</h3>
-        <p>
-          The portfolio is strongest where scientific questions become tools other people can navigate, run, and interpret.
-        </p>
-      </article>
-      <article class="signal-card">
-        <h3>Reproducibility as a habit</h3>
-        <p>
-          Environment files, installation notes, source links, and explicit dependencies show an analyst who thinks beyond a local machine.
-        </p>
-      </article>
-      <article class="signal-card">
-        <h3>Domain depth with technical range</h3>
-        <p>
-          Your work is specific enough to feel credible in neuroscience and broad enough to transfer into data science, analytics, or research engineering roles.
-        </p>
-      </article>
+    <span class="section-label">Experience Snapshot</span>
+    <h2>Roles and environments</h2>
+    <div class="about-grid">
+      <div class="about-callout">
+        <h3>Current and recent roles</h3>
+        <ul class="about-list">
+          <li>Postdoctoral Researcher, University of British Columbia</li>
+          <li>Doctoral Researcher, University of British Columbia</li>
+          <li>Data Scientist, Lieta Research Financial Group</li>
+          <li>Scientific Consultant, Derm-Biome Pharmaceuticals</li>
+        </ul>
+      </div>
+      <div class="about-callout">
+        <h3>Technical toolkit</h3>
+        <ul class="about-list">
+          <li>Python, R, SQL</li>
+          <li>PostgreSQL, Streamlit, Docker, AWS</li>
+          <li>Statistical modelling, machine learning, time-series analysis, computer vision</li>
+          <li>JIRA, Git, VS Code, Trello, ClickUp</li>
+        </ul>
+      </div>
+      <div class="about-callout">
+        <h3>Awards and recognition</h3>
+        <ul class="about-list">
+          <li>NSERC Canada Graduate Scholarship - Master's</li>
+          <li>University of British Columbia Four Year Fellowship</li>
+          <li>NSERC Post-Graduate Scholarship - Doctoral</li>
+          <li>UBC Psychology Quinn Researchship / UBC Science SURE</li>
+        </ul>
+      </div>
     </div>
   </section>
 
   <section class="section">
-    <span class="section-label">About</span>
-    <h2>What I’m building toward</h2>
-    <div class="about-grid">
-      <div class="about-callout">
-        <h3>Best-fit roles</h3>
-        <ul class="about-list">
-          <li>Research engineer</li>
-          <li>Scientific data scientist</li>
-          <li>Analytics engineer for research or health data</li>
-          <li>Data-focused software roles where clarity and reproducibility matter</li>
-        </ul>
-      </div>
-      <div class="about-callout">
-        <h3>Technical profile</h3>
-        <ul class="about-list">
-          <li>Python-first workflow for scientific computing and data processing</li>
-          <li>Jupyter notebooks for exploratory and publication-aligned analysis</li>
-          <li>Streamlit and dashboard-oriented interfaces for stakeholder use</li>
-          <li>Statistical and visualization tooling applied to phenotype datasets</li>
-        </ul>
-      </div>
-      <div class="about-callout">
-        <h3>Contact</h3>
-        <p>
-          If you are hiring for a role that sits between research, data, and software delivery, that is the angle this portfolio is designed to make obvious.
-        </p>
-        <div class="contact-strip">
-          <a class="button secondary" href="https://github.com/JosephLiangUBC">GitHub</a>
-          <a class="button secondary" href="https://www.linkedin.com/in/joseph-liang-ubc/">LinkedIn</a>
-          <a class="button secondary" href="mailto:joseph90003@gmail.com">joseph90003@gmail.com</a>
-        </div>
-      </div>
+    <span class="section-label">Contact</span>
+    <h2>Open to project management and data science opportunities</h2>
+    <p>
+      I am especially interested in roles where structured execution, stakeholder communication, and analytical depth all matter, particularly in tech, biotech, healthcare, and research-driven organizations.
+    </p>
+    <div class="button-row">
+      <a class="button primary" href="mailto:joseph90003@gmail.com">joseph90003@gmail.com</a>
+      <a class="button secondary" href="https://github.com/JosephLiangUBC">GitHub Profile</a>
+      <a class="button secondary" href="https://www.linkedin.com/in/joseph-liang-ubc/">LinkedIn Profile</a>
     </div>
   </section>
 </div>
