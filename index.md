@@ -159,7 +159,7 @@ title: Joseph Liang
     <span class="section-label">GitHub Portfolio</span>
     <h2>Projects I would share with employers</h2>
     <p>
-      My GitHub highlights where software delivery (user-centered tool-building for the non-technical) and analytical depth meet. These repositories provide concrete examples of the workflows, tools, and delivery style described above.
+      Here are a selection of my projects that highlight my experiences on a combination of software delivery (user-centered analytical tools for the non-technical) and analytical depth. These repositories provide concrete examples of the workflows, tools, and delivery style described above.
     </p>
 
     <div class="project-grid">
