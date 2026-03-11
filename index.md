@@ -84,7 +84,7 @@ title: Joseph Liang
   </section>
 
   <section class="section">
-    <span class="section-label">Impact-Driven Achievements</span>
+    <span class="section-label">Impact-Centered Achievements</span>
     <h2>Selected Experience</h2>
     <div class="project-grid">
       <article class="project-card">
