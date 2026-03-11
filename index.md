@@ -20,7 +20,9 @@ title: Joseph Liang
         <a class="button secondary" href="https://www.linkedin.com/in/joseph-liang-ubc/">LinkedIn</a>
       </div>
       <div class="tag-row">
+        <span class="tag">Project Management</span>
         <span class="tag">Project Delivery</span>
+        <span class="tag">Cross-functional Collaboration</span>
         <span class="tag">Data Science</span>
         <span class="tag">Python</span>
         <span class="tag">SQL</span>
@@ -250,7 +252,7 @@ title: Joseph Liang
           <li>Project Management Tools & Methodologies: Jira, Trello, ClickUp, Agile, Kanban</li>
           <li>Programming & data: Python, R, SQL, Docker, Git, VS Code, Jupyter</li>
           <li>Databases & Dashboards: AWS (RDS,EC2), PostgreSQL, Streamlit</li>
-          <li>Statistical modelling, machine learning, time-series analysis, computer vision</li>
+          <li>Statistical modelling, machine learning, time-series analysis</li>
         </ul>
       </div>
       <div class="about-callout">
