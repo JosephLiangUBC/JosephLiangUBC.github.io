@@ -32,7 +32,7 @@ title: Joseph Liang
     </div>
     <aside class="hero-card">
       <div class="profile-head">
-        <img src="assets/img/ProfileHeadJPG.jpg" alt="Joseph Liang portrait">
+        <img src="/assets/img/profile-head.png" alt="Joseph Liang portrait">
         <div>
           <strong>UBC Neuroscience PhD</strong><br>
           <span>Project leader, data scientist, researcher</span>
