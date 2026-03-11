@@ -235,7 +235,7 @@ title: Joseph Liang
         <div class="project-top">
           <div>
             <h3>Joseph-Jupyter-Notebooks</h3>
-            <div class="meta">Exploratory analysis • Supporting portfolio material</div>
+            <div class="meta">Exploratory data analysis • Data Visualization • Scientific Python</div>
           </div>
           <a class="repo-link" href="https://github.com/JosephLiangUBC/Joseph-Jupyter-Notebooks">Open Repo</a>
         </div>
