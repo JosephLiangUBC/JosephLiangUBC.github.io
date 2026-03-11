@@ -157,9 +157,9 @@ title: Joseph Liang
 
   <section class="section">
     <span class="section-label">GitHub Portfolio</span>
-    <h2>Projects I would share with employers</h2>
+    <h2>Highlighted Projects</h2>
     <p>
-      These repositories best reflect the combination of software delivery (especially for non-technical users), analytical depth, and practical execution described above. I selected the projects that are most useful for employers evaluating my work in data science, tooling, and technical project delivery.
+      These repositories best reflect the combination of software delivery (especially for non-technical users), analytical depth, and practical execution described above.
     </p>
 
     <div class="project-grid">
@@ -174,7 +174,7 @@ title: Joseph Liang
         <div class="project-copy">
           <ul>
             <li>Interactive dashboard for Multi-Worm Tracker data that makes complex behavioral outputs easier to inspect and interpret.</li>
-            <li>Best example of my ability to build stakeholder-facing software on top of real research data.</li>
+            <li>Demonstrates ability to build stakeholder-facing software on top of real research data.</li>
             <li>Relevant to analytics, internal tooling, scientific software, and product-minded data roles.</li>
           </ul>
         </div>
@@ -191,7 +191,7 @@ title: Joseph Liang
         <div class="project-copy">
           <ul>
             <li>Ports functionality from the legacy <code>Chore.jar</code> Java workflow into a Python library for easier access and integration.</li>
-            <li>Demonstrates ambitious technical execution, including using AI agent and AI copilot workflows productively on a non-trivial programming task.</li>
+            <li>Demonstrate ambitious technical execution, including using AI agent and AI copilot workflows productively on a non-trivial programming task.</li>
             <li>Strong example of translating an older toolchain into a more usable, modern developer experience with clear command input and tuning.</li>
           </ul>
         </div>
@@ -225,7 +225,7 @@ title: Joseph Liang
         <div class="project-copy">
           <ul>
             <li>Reproducible analysis repository for a genotype-to-phenotype investigation in <em>C. elegans</em>.</li>
-            <li>Shows how I structure analysis for transparency, reuse, and publication-aligned collaboration.</li>
+            <li>Structures analysis pipelines for transparency, reuse, and publication-aligned collaboration.</li>
             <li>Includes clear environment details, prerequisites, and linked data sources.</li>
           </ul>
         </div>
