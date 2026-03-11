@@ -6,7 +6,7 @@ title: Joseph Liang
 <div class="portfolio">
   <section class="hero">
     <div>
-      <span class="eyebrow">Project Leadership • Data Science • Research Software</span>
+      <span class="eyebrow">Project Leadership • Data Science • Research </span>
       <h1>Joseph Liang</h1>
       <p class="lead">
         Impact-driven project leader and data scientist with 7+ years of experience delivering complex, cross-functional initiatives from start to finish and using data to inform every step.
@@ -35,7 +35,7 @@ title: Joseph Liang
         <img src="/assets/img/profile-head.png" alt="Joseph Liang portrait">
         <div>
           <strong>UBC Neuroscience PhD</strong><br>
-          <span>Project leader, data scientist, researcher</span>
+          <span>Project Leader, Data Scientist, Researcher</span>
         </div>
       </div>
       <p>
