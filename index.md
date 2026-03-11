@@ -49,8 +49,8 @@ title: Joseph Liang
           <span>CIHR project grant supported</span>
         </div>
         <div class="metric">
-          <strong>50k+</strong>
-          <span>Animals phenotyped and analyzed</span>
+          <strong>10+</strong>
+          <span>Data-based projects</span>
         </div>
       </div>
     </aside>
@@ -105,7 +105,7 @@ title: Joseph Liang
       <article class="project-card">
         <div class="project-top">
           <div>
-            <h3>Data Science in Research</h3>
+            <h3>Data Science and Scientific Research</h3>
             <div class="meta">Doctoral Researcher • 2020 to 2025</div>
           </div>
         </div>

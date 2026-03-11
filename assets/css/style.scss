@@ -281,11 +281,10 @@ body {
 }
 
 .project-top {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  align-items: center;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 10px 16px;
+  align-items: start;
 }
 
 .repo-link {
@@ -294,6 +293,9 @@ body {
   font-size: 0.92rem;
   font-weight: 700;
   text-decoration: none;
+  justify-self: end;
+  align-self: start;
+  white-space: nowrap;
 }
 
 .repo-link:hover {
