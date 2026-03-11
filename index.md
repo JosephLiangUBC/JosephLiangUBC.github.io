@@ -159,7 +159,7 @@ title: Joseph Liang
     <span class="section-label">GitHub Portfolio</span>
     <h2>Projects I would share with employers</h2>
     <p>
-      Here are a selection of my projects that highlight my experiences on a combination of software delivery (user-centered analytical tools for the non-technical) and analytical depth. These repositories provide concrete examples of the workflows, tools, and delivery style described above.
+      These repositories best reflect the combination of software delivery (especially for non-technical users), analytical depth, and practical execution described above. I selected the projects that are most useful for employers evaluating my work in data science, tooling, and technical project delivery.
     </p>
 
     <div class="project-grid">
@@ -183,6 +183,40 @@ title: Joseph Liang
       <article class="project-card">
         <div class="project-top">
           <div>
+            <h3>Chore.py</h3>
+            <div class="meta">Python library • AI-assisted development • Workflow modernization</div>
+          </div>
+          <a class="repo-link" href="https://github.com/JosephLiangUBC/Chore.py">Open Repo</a>
+        </div>
+        <div class="project-copy">
+          <ul>
+            <li>Ports functionality from the legacy <code>Chore.jar</code> Java workflow into a Python library for easier access and integration.</li>
+            <li>Demonstrates ambitious technical execution, including using AI agent and AI copilot workflows productively on a non-trivial programming task.</li>
+            <li>Strong example of translating an older toolchain into a more usable, modern developer experience with clear command input and tuning.</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-top">
+          <div>
+            <h3>one_click_etl</h3>
+            <div class="meta">ETL pipeline • Experimental data processing • Database delivery</div>
+          </div>
+          <a class="repo-link" href="https://github.com/JosephLiangUBC/one_click_etl">Open Repo</a>
+        </div>
+        <div class="project-copy">
+          <ul>
+            <li>Establishes an ETL pipeline that lets users process raw experimental data into a database server in a frictionless one-step workflow.</li>
+            <li>Highlights practical data engineering instincts around automation, standardization, and reducing operational overhead for end users.</li>
+            <li>Turns messy research data processes into repeatable infrastructure.</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-top">
+          <div>
             <h3>unc-43_brief_investigation</h3>
             <div class="meta">Reproducible analysis • Jupyter • Scientific Python</div>
           </div>
@@ -193,23 +227,6 @@ title: Joseph Liang
             <li>Reproducible analysis repository for a genotype-to-phenotype investigation in <em>C. elegans</em>.</li>
             <li>Shows how I structure analysis for transparency, reuse, and publication-aligned collaboration.</li>
             <li>Includes clear environment details, prerequisites, and linked data sources.</li>
-          </ul>
-        </div>
-      </article>
-
-      <article class="project-card">
-        <div class="project-top">
-          <div>
-            <h3>NRSC510B</h3>
-            <div class="meta">Dataset design • Statistics • Dashboard planning</div>
-          </div>
-          <a class="repo-link" href="https://github.com/JosephLiangUBC/NRSC510B">Open Repo</a>
-        </div>
-        <div class="project-copy">
-          <ul>
-            <li>End-to-end project combining biological context, dataset design, statistical tooling, and dashboard-oriented thinking.</li>
-            <li>Useful illustration of how I connect research questions, data structure, and user-facing outputs.</li>
-            <li>Good fit for employers looking for structured thinking across both analysis and delivery.</li>
           </ul>
         </div>
       </article>
