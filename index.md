@@ -159,7 +159,7 @@ title: Joseph Liang
     <span class="section-label">GitHub Portfolio</span>
     <h2>Projects I would share with employers</h2>
     <p>
-      My GitHub is strongest where software delivery and analytical depth meet. These repositories provide concrete examples of the workflows, tools, and delivery style described above.
+      My GitHub highlights where software delivery (user-centered tool-building for the non-technical) and analytical depth meet. These repositories provide concrete examples of the workflows, tools, and delivery style described above.
     </p>
 
     <div class="project-grid">
