@@ -47,8 +47,8 @@ title: Joseph Liang
           <span>Years leading complex initiatives</span>
         </div>
         <div class="metric">
-          <strong>$1.2M</strong>
-          <span>CIHR project grant supported</span>
+          <strong>$1.7M+</strong>
+          <span>National and private funding generated for stakeholders</span>
         </div>
         <div class="metric">
           <strong>10+</strong>
