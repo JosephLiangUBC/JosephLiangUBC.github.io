@@ -39,7 +39,7 @@ title: Joseph Liang
         </div>
       </div>
       <p>
-        I bring scientific rigor to project management and a delivery mindset to data science. My work spans project leadership, machine learning, dashboard development, database design, and technical communication for both specialist and non-specialist audiences.
+        I bring a team-centered delivery mindset to project management and a scientific rigor to data science. My work spans project leadership, data analysis, dashboard development, database design, machine learning and technical communication for both specialist and non-specialist audiences.
       </p>
       <div class="metrics">
         <div class="metric">
