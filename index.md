@@ -97,9 +97,9 @@ title: Joseph Liang
         <div class="project-copy">
           <ul>
             <li>Led end-to-end analytical execution across 5 to 7 active projects simultaneously, replacing ad hoc work with milestone-driven delivery and stakeholder-facing outputs.</li>
-            <li>Mentored a cross-functional team spanning data science, biology, and research while setting analytical standards across disciplines.</li>
-            <li>Established shared templates and SOPs across projects to improve reproducibility, interpretability, and reviewability.</li>
-            <li>Led migration of a PostgreSQL database and Streamlit dashboard from AWS RDS to private infrastructure to reduce data privacy risk.</li>
+            <li>Led and mentored a cross-functional team of 3 spanning data science, neurobiology, and research while setting analytical standards across disciplines.</li>
+            <li>Established shared templates and SOPs across projects to improve maintainability, simplicity and reproducibility.</li>
+            <li>Led migration of a database and data dashboard from AWS RDS to private infrastructure to reduce data privacy risk.</li>
           </ul>
         </div>
       </article>
@@ -113,6 +113,7 @@ title: Joseph Liang
         </div>
         <div class="project-copy">
           <ul>
+            <li>Led and mentored a team of 5 spanning programming, data science, molecular biology, neurobiology and behavioural research to deliver research insights across 5 active projects simultaneously.</li>
             <li>Built and evaluated multi-class ML models including Random Forest, SVM, and Logistic Regression across 28 features to classify disease-linked gene candidates.</li>
             <li>Led delivery of a PostgreSQL data infrastructure project and self-serve Streamlit dashboard that consolidated 15 years of institutional data.</li>
             <li>Collected and analyzed phenotype data from roughly 50,000 animals to generate functional annotation for understudied genes.</li>
@@ -130,8 +131,8 @@ title: Joseph Liang
         </div>
         <div class="project-copy">
           <ul>
-            <li>Led a focused drug-screening and hypothesis-testing initiative that contributed directly to $500K in pre-seed funding.</li>
-            <li>Coordinated a small research team and delivered decision-ready evidence on timeline for executive stakeholders.</li>
+            <li>Led a focused drug-screening and hypothesis-testing initiative that resulted in $500K in pre-seed funding.</li>
+            <li>Coordinated a small research team and delivered scientific evidence on time for executive stakeholders.</li>
             <li>Translated experimental results into clear strategic narratives for CEO, CSO, and investor audiences.</li>
           </ul>
         </div>
@@ -148,7 +149,7 @@ title: Joseph Liang
           <ul>
             <li>Designed and delivered curriculum to 2,000+ students over 7 years with a 4.7 out of 5 teaching rating.</li>
             <li>Built and managed a research-focused podcast with 46,196 all-time downloads and 12,449 unique listeners.</li>
-            <li>Presented findings at 10+ local and international conferences and regularly translated technical material for non-specialist audiences.</li>
+            <li>Presented findings at 10+ local and international conferences and translated technical material for non-specialist audiences.</li>
           </ul>
         </div>
       </article>
@@ -159,7 +160,6 @@ title: Joseph Liang
     <span class="section-label">GitHub Portfolio</span>
     <h2>Highlighted Projects</h2>
     <p>
-      These repositories best reflect the combination of software delivery (especially for non-technical users), analytical depth, and practical execution described above.
     </p>
 
     <div class="project-grid">
@@ -191,8 +191,8 @@ title: Joseph Liang
         <div class="project-copy">
           <ul>
             <li>Ports functionality from the legacy <code>Chore.jar</code> Java workflow into a Python library for easier access and integration.</li>
-            <li>Demonstrate ambitious technical execution, including using AI agent and AI copilot workflows productively on a non-trivial programming task.</li>
-            <li>Strong example of translating an older toolchain into a more usable, modern developer experience with clear command input and tuning.</li>
+            <li>Demonstrate ambitious technical execution, including leveraging AI agent and copilot workflows productively to deliver programming tasks.</li>
+            <li>Exemplifies a self-starting mindset - translated an older toolchain into a more usable, modern developer experience with clear command input and tuning.</li>
           </ul>
         </div>
       </article>
@@ -243,7 +243,6 @@ title: Joseph Liang
           <ul>
             <li>Collection of notebooks supporting phenotype-focused analysis and workflow development.</li>
             <li>Shows the underlying exploratory work behind the more polished dashboard and research repositories.</li>
-            <li>Useful as supporting evidence of sustained hands-on analytical practice.</li>
           </ul>
         </div>
       </article>
@@ -267,8 +266,8 @@ title: Joseph Liang
         <h3>Technical toolkit</h3>
         <ul class="about-list">
           <li>Project Management Tools & Methodologies: Jira, Trello, ClickUp, Agile, Kanban</li>
-          <li>Programming & data: Python, R, SQL, Docker, Git, VS Code, Jupyter</li>
-          <li>Databases & Dashboards: AWS (RDS,EC2), PostgreSQL, Streamlit</li>
+          <li>Programming & Development: VSCode, Jupyter, Git, Docker, Python, R, PostgreSQL, Streamlit</li>
+          <li>Application Deployment on Cloud Computing Sevices: AWS RDS and EC2</li>
           <li>Statistical modelling, machine learning, time-series analysis</li>
         </ul>
       </div>
@@ -288,7 +287,7 @@ title: Joseph Liang
     <span class="section-label">Contact</span>
     <h2>Open to project management and data science opportunities</h2>
     <p>
-      I am especially interested in roles where structured execution, stakeholder communication, and analytical depth all matter, particularly in tech, biotech, healthcare, and research-driven organizations.
+      I am especially interested in roles where structured execution, stakeholder communication and analytical depth all matter, particularly in tech, biotech, healthcare, and research-driven organizations.
     </p>
     <div class="button-row">
       <a class="button primary" href="mailto:joseph90003@gmail.com">joseph90003@gmail.com</a>
