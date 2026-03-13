@@ -9,7 +9,7 @@ title: Joseph Liang
       <span class="eyebrow">Project Leadership • Data Science • Research </span>
       <h1>Joseph Liang</h1>
       <p class="lead">
-        Impact-driven project leader and data scientist with 7+ years of experience delivering complex, cross-functional initiatives from start to finish and using data to inform every step.
+        Impact-driven project leader and data scientist with 5+ years of experience delivering complex, cross-functional initiatives from start to finish and using data to inform every step.
       </p>
       <p>
         With a PhD in Neuroscience and hands-on experience leading multidisciplinary teams, I work at the intersection of rigorous analysis and practical execution across tech, biotech, healthcare, and research-driven environments.
@@ -43,7 +43,7 @@ title: Joseph Liang
       </p>
       <div class="metrics">
         <div class="metric">
-          <strong>7+</strong>
+          <strong>5+</strong>
           <span>Years leading complex initiatives</span>
         </div>
         <div class="metric">
