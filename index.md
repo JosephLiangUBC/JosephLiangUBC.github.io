@@ -235,6 +235,21 @@ title: Joseph Liang
       <article class="project-card">
         <div class="project-top">
           <div>
+            <h3>Dashboard: Flight Cancellations Due To The 2026 Iranian Conflict</h3>
+            <div class="meta">Exploratory Data Analysis • Data Visualization • Looker</div>
+          </div>
+          <a class="repo-link" href="https://lookerstudio.google.com/reporting/21586f84-f9bb-4a77-afc1-63806bfd686a">Open Link</a>
+        </div>
+        <div class="project-copy">
+          <ul>
+            <li>Looker Dashboard visualizing the impact of the 2026 Iranian Conflict (Flight cancellations in March 2026).</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-top">
+          <div>
             <h3>Joseph-Jupyter-Notebooks</h3>
             <div class="meta">Exploratory Data Analysis • Data Visualization • Scientific Python</div>
           </div>
@@ -248,6 +263,7 @@ title: Joseph Liang
         </div>
       </article>
     </div>
+
   </section>
 
   <section class="section">
