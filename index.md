@@ -174,6 +174,7 @@ title: Joseph Liang
         <div class="project-copy">
           <ul>
             <li>Interactive dashboard for Multi-Worm Tracker data that makes complex behavioral outputs easier to inspect and interpret.</li>
+            <li>End-to-end delivery of a product lifecycle</li>
             <li>Demonstrates ability to build stakeholder-facing software on top of real research data.</li>
             <li>Relevant to analytics, internal tooling, scientific software, and product-minded data roles.</li>
           </ul>
